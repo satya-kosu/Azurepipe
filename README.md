@@ -5,3 +5,5 @@
 1st azure CD pipeline Setup.
 
 2nd azure CD pipeline Setup.
+
+3rd azure added Test env to pipeline.
