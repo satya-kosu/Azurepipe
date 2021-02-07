@@ -7,3 +7,5 @@
 2nd azure CD pipeline Setup.
 
 3rd azure added Test env to pipeline.
+
+CICD manual test.
